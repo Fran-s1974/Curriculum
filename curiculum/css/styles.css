@@ -1,13 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,600;1,700;1,800;1,900&family=Press+Start+2P&display=swap');
 
+.logo{
+    width:200px;
+    height: 200px; 
+    display: block; 
+    margin: auto;}
 
+.pricipal{
+    background-image:url(../img/iYzaOEB14z1oYdn4gydJgg.jpg);
+    height: 120vh;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 100%;
+    }
+.boton_sobre_mi{text-align:center;}
 
-.fondo_de_imagen{background-color: #2c1d30; padding: 15px;}
-.logo{width:200px;height: 200px; display: block; margin: auto;}
-.fondofooter{background-color: #2c1d30; text-align:center;}
+.fondo_de_imagen{
+    background-color: #0D1B2A; 
+    padding: 15px;}
+.logo{
+    width:200px;
+    height: 200px; 
+    display: block; 
+    margin: auto;}
+
+.fondofooter{
+    background-color: #0D1B2A; 
+    text-align:center;
+    height: -100px;
+}
+
 .negrita{font-weight:bold;}
+
 .instagramLOGO{width:20px;height: 20px;}
 
-h1{text-align:center; color: #000000; background-color: #2c1d30;font-size: 40px;}
-h2{color:rgb(241, 217, 194) ;background-color: #2c1d30}
+h1{text-align:center; 
+    color: #E0E1DD; 
+    background-color: #0D1B2A;
+    font-size: 30px;
+    font-family:"Press Start 2P", sans-serif;}
+
+h2{ color:#E0E1DD;
+    background-color: #0D1B2A ;
+    font-size: 15px;
+    font-family:"Press Start 2P", sans-serif;
+    }
 
 
